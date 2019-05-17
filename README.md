@@ -2,6 +2,7 @@
 
 
 ### Start the web server:
+#### make sure you move the package to $GOPATH/src/
 
    revel run beers
 
