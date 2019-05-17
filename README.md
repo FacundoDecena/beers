@@ -1,9 +1,7 @@
 # Welcome to my Revel test
-
+##### make sure you move the package to $GOPATH/src/
 
 ### Start the web server:
-#### make sure you move the package to $GOPATH/src/
-
    revel run beers
 
 ### Go to http://localhost:9000/beers and you'll see:
